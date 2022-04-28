@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ehiksalex
 - 👀 I’m interested in coding and cyber security 
-- 🌱 I’m currently learning HTML 
+- 🌱 I’m currently learning HTML,CSS,javaScript and python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ehiksalex@gmail.com 
 
